@@ -1,0 +1,26 @@
+.navbar{
+    background-color: #282A35 !important; 
+}
+
+.navbar ul{
+    display: inline-block;
+}
+
+.navbar ul li {
+    display: inline-block;
+    margin-right: 30px;
+}
+
+.navbar ul li a{
+    color: white !important;
+}
+
+.navbar ul li a:hover{
+    color: #007bff!important;
+    border-bottom: 1px solid white;
+}
+
+.selected
+{
+    border-bottom: 2px solid white !important;   
+}
